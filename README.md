@@ -2,7 +2,7 @@
 
 🎓 Master's in Business Analytics & AI @ University of Texas at Dallas  
 📈 Data Engineer | Data Scientist | Full Stack Developer | Cloud Enthusiast  
-🌟 Passionate about building data-driven and impactful digital solutions
+🌟 Passionate about building data-driven and impactful digital solutions  
 🥇 AWS Certified Cloud Practitioner  
 
 ---
