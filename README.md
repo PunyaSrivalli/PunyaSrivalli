@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Punya Srivalli Nallamothu
 
 🎓 Master's in Business Analytics & AI @ University of Texas at Dallas  
-📈 Data Engineer | Full Stack Developer | Cloud Enthusiast  
+📈 Data Engineer | Data Scientist | Full Stack Developer | Cloud Enthusiast  
 🌟 Passionate about building data-driven and impactful digital solutions
 
 ---
@@ -57,6 +57,6 @@ Processed telematics data from 300+ trucks to compute driver risk scores using P
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/punya-srivalli-nallamothu)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:nsrivalli0712@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:punyasrivalli7@gmail.com)
 
 ---
