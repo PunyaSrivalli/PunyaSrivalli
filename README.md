@@ -17,14 +17,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- 📌 4.0 GPA (Top 1%) at UTD’s Business Analytics & AI Program  
-- 🥇 AWS Certified Cloud Practitioner  
-- 🧠 4th place in national AI hackathon for solving environmental challenges
-
----
-
 ## 💼 Work Experience
 
 ### 🏛️ University of Texas at Dallas — *Student Assistant - Data Engineer*  
@@ -43,21 +35,28 @@
 
 ## 🛠️ Featured Projects
 
-### 💡 Health Cost Navigator  
+### 💡 [Health Cost Navigator](https://github.com/PunyaSrivalli/Health-Cost-Navigator)  
 Built an end-to-end healthcare price comparison tool across 8 U.S. cities using Python, Snowflake, and Streamlit.
 
-### 🚗 Uber & Lyft Ride Price Prediction  
+### 🚗 [Uber & Lyft Ride Price Prediction](https://github.com/PunyaSrivalli/Boston-in-Motion-Predicting-Uber-Lyft-Ride-Demand)  
 Used Random Forest and XGBoost to predict ride fares with 96% R² accuracy based on 50+ features.
 
 ### 🚛 ANT’s Truck Risk Factor Analysis  
 Processed telematics data from 300+ trucks to compute driver risk scores using PySpark and Hadoop.
 
+---
+
+## 🏆 Achievements
+
+- 📌 4.0 GPA (Top 1%) at UTD’s Business Analytics & AI Program  
+- 🥇 AWS Certified Cloud Practitioner  
+- 🧠 4th place in national AI hackathon for solving environmental challenges
 
 ---
 
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/punya-srivalli-nallamothu)  
-[📫 Email](mailto:nsrivalli0712@gmail.com) | [💻 GitHub](https://github.com/PunyaSrivalli)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:nsrivalli0712@gmail.com)
 
 ---
