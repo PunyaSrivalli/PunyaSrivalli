@@ -3,6 +3,7 @@
 🎓 Master's in Business Analytics & AI @ University of Texas at Dallas  
 📈 Data Engineer | Data Scientist | Full Stack Developer | Cloud Enthusiast  
 🌟 Passionate about building data-driven and impactful digital solutions
+🥇 AWS Certified Cloud Practitioner  
 
 ---
 
@@ -14,6 +15,7 @@
 - **Visualization:** Tableau, Power BI, Streamlit  
 - **Databases:** MySQL, PostgreSQL, Hadoop HDFS, Impala  
 - **Project Experience:** ETL pipelines, healthcare cost analysis, telematics data, price prediction models
+- 🥇 AWS Certified Cloud Practitioner  
 
 ---
 
@@ -49,7 +51,6 @@ Processed telematics data from 300+ trucks to compute driver risk scores using P
 ## 🏆 Achievements
 
 - 📌 4.0 GPA (Top 1%) at UTD’s Business Analytics & AI Program  
-- 🥇 AWS Certified Cloud Practitioner  
 - 🧠 4th place in national AI hackathon for solving environmental challenges
 
 ---
